@@ -42,7 +42,7 @@
             <ShellContent ContentTemplate="{DataTemplate local:AboutPage}" />
         </Tab>
     </FlyoutItem>
-    
+       
     <!-- Optional Templates 
     // These may be provided inline as below or as separate classes.
 
